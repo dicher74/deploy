@@ -1,1 +1,0 @@
-import{_ as t,v as o,x as a,z as c,t as s,S as n}from"./HkIJTzlQ.js";const _={},r={class:"content-wrapper-global"},d={class:"content-wrapper"};function p(l,f){const e=n;return s(),o("div",r,[a("div",d,[c(e)])])}const m=t(_,[["render",p],["__scopeId","data-v-b8eaedd4"]]);export{m as default};
